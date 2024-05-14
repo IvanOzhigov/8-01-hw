@@ -22,9 +22,11 @@
 
 ## Ответ
 
- ![all text]https://github.com/IvanOzhigov/8-01-hw/blob/assets/Снимок%20экрана%20от%202024-05-14%2014-39-29.png  
- ![all text]https://github.com/IvanOzhigov/8-01-hw/blob/assets/Снимок%20экрана%20от%202024-05-14%2016-44-24.png   
- ![all text]https://github.com/IvanOzhigov/8-01-hw/blob/assets/Снимок%20экрана%20от%202024-05-14%2017-16-13.png
+ ![all text]https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2014-39-29.png  
+ ![all text]https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2016-44-24.png   
+ ![all text]https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2017-16-13.png
+
+ https://github.com/IvanOzhigov/8-01-hw.git
 
 ## Задание 2
 
