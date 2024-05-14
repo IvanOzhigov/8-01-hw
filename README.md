@@ -22,10 +22,9 @@
 
 ## Ответ
 
- ![alt text]
- (https://github.com/IvanOzhigov/8-01-hw/blob/assets/1.png)
- (https://github.com/IvanOzhigov/8-01-hw/blob/assets/2.png)
- (https://github.com/IvanOzhigov/8-01-hw/blob/assets/3.png)
+ ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1.png)
+ ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2.png)
+ ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3.png)
 
  https://github.com/IvanOzhigov/8-01-hw.git
 
