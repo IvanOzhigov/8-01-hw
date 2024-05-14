@@ -23,9 +23,9 @@
 ## Ответ
 
  ![alt text]
- (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/1.png)  
- (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/2.png)   
- (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/3.png)
+ (https://github.com/IvanOzhigov/8-01-hw/blob/assets/1.png)
+ (https://github.com/IvanOzhigov/8-01-hw/blob/assets/2.png)
+ (https://github.com/IvanOzhigov/8-01-hw/blob/assets/3.png)
 
  https://github.com/IvanOzhigov/8-01-hw.git
 
