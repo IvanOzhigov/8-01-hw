@@ -23,9 +23,9 @@
 ## Ответ
 
  ![alt text]
- (https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2014-39-29.png)  
- (https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2016-44-24.png)   
- (https://github.com/IvanOzhigov/8-01-hw/e2ee914f2e95832b06cc436ded56de3208e28cbf/Снимок%20экрана%20от%202024-05-14%2017-16-13.png)
+ (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/1.png)  
+ (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/2.png)   
+ (https://github.com/IvanOzhigov/8-01-hw/1554abae81b22b6094181a175c67e7c501d8f118/3.png)
 
  https://github.com/IvanOzhigov/8-01-hw.git
 
