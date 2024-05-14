@@ -62,3 +62,6 @@
 
 ## Ответ
 
+ ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/4.png)
+
+ https://github.com/IvanOzhigov/8-01-hw.git
