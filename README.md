@@ -41,7 +41,7 @@
 
 ## Ответ
 
- https://github.com/IvanOzhigov/8-01-hw.git](https://github.com/IvanOzhigov/8-01-hw/commit/9dd4ecdee81b6ee306064ba8ce8a0a5edd6fb9e7
+https://github.com/IvanOzhigov/8-01-hw/commit/9dd4ecdee81b6ee306064ba8ce8a0a5edd6fb9e7
 
 ## Задание 3
 
