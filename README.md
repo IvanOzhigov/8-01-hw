@@ -26,7 +26,7 @@
  ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2.png)
  ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3.png)
 
- https://github.com/IvanOzhigov/8-01-hw.git
+ https://github.com/IvanOzhigov/8-01-hw/tree/65f478efe2d5f1e3c059e5eff7df237e89cc1cb6
 
 ## Задание 2
 
@@ -41,7 +41,7 @@
 
 ## Ответ
 
- https://github.com/IvanOzhigov/8-01-hw.git
+ https://github.com/IvanOzhigov/8-01-hw.git](https://github.com/IvanOzhigov/8-01-hw/commit/9dd4ecdee81b6ee306064ba8ce8a0a5edd6fb9e7)
 
 ## Задание 3
 
@@ -64,4 +64,4 @@
 
  ![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/4.png)
 
- https://github.com/IvanOzhigov/8-01-hw.git
+ https://github.com/IvanOzhigov/8-01-hw/network
